@@ -71,7 +71,7 @@ The team members initiate and pass (at 50%) a vote to remove their team lead, an
 The team members initiate and pass (at 66%) a vote to remove their team lead, at which point the decision will not be up for a team-lead vote.
 The other team-leads initiate and pass (at 66%, excluding team-lead up for removal) a vote to remove a team-lead, and the admin team also passes this vote.
 The admins initiate a vote and pass unanimously to remove a sitting team-lead, at which point this decision will not be up for a team or team-lead vote.
-In the case when a team-lead is removed from duty, the admins will facilitate re-elections as described in [motion #14](motions.md#14).
+In the case when a team-lead is removed from duty, the admins will facilitate re-elections as described in [motion #14](motions.md#motion-14).
 
 ###### Motion-16
 Votes: 6/0/0/1
@@ -83,7 +83,7 @@ Ashley motions to create a private channel with all team-leads and admins to dis
 
 ###### Motion-18
 Votes: 6/0/0/1
-Flaming motions to put a system in place to create polls for the whole community regarding the work a team is doing, from within a team/project. Proposed is the following: Team lead and project members discuss the contents of the poll. When finalized, they should contact the admins, who will then facilitate a poll as described in [motion #12](motions.md#12).
+Flaming motions to put a system in place to create polls for the whole community regarding the work a team is doing, from within a team/project. Proposed is the following: Team lead and project members discuss the contents of the poll. When finalized, they should contact the admins, who will then facilitate a poll as described in [motion #12](motions.md#motion-12).
 
 ###### Motion-19
 Votes: 6/0/0/1
@@ -91,11 +91,11 @@ Flaming motions for the creation of a ‘billboard’-chat where all active proj
 
 ###### Motion-20
 Votes: 6/0/0/1
-GreenArrow proposes the following process in regards to creation of projects and appointing of project-leads. New projects can be proposed by community members through a google form. To start a new project requirements are to have some meta information for the project (description etc.), the discord tag of the initial project-lead as well as enough people willing to work on the project. This number can differ per-project. Submitted projects will be given a quick check over by the admin team to make sure the project does not breach ToS or server rules. In case the admins deem a submitted project is too similar to an existing project, they will direct the member submitting the project to talk to the other projects lead, depending on the outcome of this discussion the two projects will be merged, or the project will be greenlit nonetheless. After a project is greenlit, a channel and joinable role will be created, and the project-lead will be asked to post project description and instructions on how to join in the ‘billboard’-channel mentioned in [motion #19](motions.md#19).
+GreenArrow proposes the following process in regards to creation of projects and appointing of project-leads. New projects can be proposed by community members through a google form. To start a new project requirements are to have some meta information for the project (description etc.), the discord tag of the initial project-lead as well as enough people willing to work on the project. This number can differ per-project. Submitted projects will be given a quick check over by the admin team to make sure the project does not breach ToS or server rules. In case the admins deem a submitted project is too similar to an existing project, they will direct the member submitting the project to talk to the other projects lead, depending on the outcome of this discussion the two projects will be merged, or the project will be greenlit nonetheless. After a project is greenlit, a channel and joinable role will be created, and the project-lead will be asked to post project description and instructions on how to join in the ‘billboard’-channel mentioned in [motion #19](motions.md#motion-19).
 
 ###### Motion-21
 Votes: 6/0/0/1
-Shared motion to further detail the “meta information” for a project as mentioned in [motion #20](motions.md#20). The following is proposed:
+Shared motion to further detail the “meta information” for a project as mentioned in [motion #20](motions.md#motion-20). The following is proposed:
 The name of the project should be provided.
 A short description of the project should be provided. After a project is greenlit this description should be posted to the ‘billboard’-channel by the project-lead.
 An estimate of people required for the viability of the project should be provided.
@@ -104,11 +104,11 @@ The option is given to request either a fully public, semi-private or fully priv
 
 ###### Motion-22
 Votes: 6/0/0/1
-Shared motion to give project-leads the same abilities and permissions as team-leads as laid out in [motion #16](motions.md#16).
+Shared motion to give project-leads the same abilities and permissions as team-leads as laid out in [motion #16](motions.md#motion-16).
 
 ###### Motion-23
 Votes: 0/6/0/1
-Shared motion to create a channel with all project-leads and admins, similar to the team-lead channel outlined in [motion #17](motions.md#17).
+Shared motion to create a channel with all project-leads and admins, similar to the team-lead channel outlined in [motion #17](motions.md#motion-17).
 
 ###### Motion-24
 Votes: 4/2/0/1
@@ -143,7 +143,7 @@ Select teams you’d like to apply for from a multiple choice. Current list of t
 Write a short bio. Who are you, why do you want to be a Team Representative, do you have relevant experience?
 Publish the list of candidates a day before opening the voting.
 Applications to open by January 16th 2021.
-Applications to close on January 23rd 2021, overruling the 4 days mentioned in [motion #14](motions.md#14).
+Applications to close on January 23rd 2021, overruling the 4 days mentioned in [motion #14](motions.md#motion-14).
 List of candidates to be posted by January 24th 2021.
 Voting will run for 24 hours starting January 25th 2021 at 6PM UTC.
 
@@ -181,7 +181,7 @@ Ashley proposes to have teams that don’t have a team-rep elected be representa
 
 ###### Motion-38
 Votes: 5/0/0/2
-Quagony motions to put a “none of the above” option in all Team Rep elections. If “none of the above” gets the most votes, the team will be rep-less like described in [motion #37](motions.md#37).
+Quagony motions to put a “none of the above” option in all Team Rep elections. If “none of the above” gets the most votes, the team will be rep-less like described in [motion #37](motions.md#motion-37).
 
 ###### Motion-39
 Votes: 5/0/0/2
@@ -193,7 +193,7 @@ GreenArrow, Flaming and LotU propose the following system for approving projects
 All admins will read through the submitted projects that have not been discussed yet before the weekly admin meeting.
 If any admin has additional questions about the projects, they’re free to invite the proposed project lead to the upcoming admin meeting. If this is done, please add a comment/note to the submission so the other admins are aware.
 During admin meetings all projects will be discussed. If there are no further questions they will be voted on immediately and either greenlit and kicked off or shut down, with a reason which will be communicated back to the person who submitted the project and the proposed project lead.
-Voting on project approval happens in accordance with  [motion #10](motions.md#10) and [#11](motions.md#11) with the exception that admins are not allowed to call a re-vote on project votes they were not present at.
+Voting on project approval happens in accordance with  [motion #10](motions.md#motion-10) and [#11](motions.md#motion-11) with the exception that admins are not allowed to call a re-vote on project votes they were not present at.
 
 ###### Motion-41
 Votes: 5/0/0/2
@@ -204,5 +204,5 @@ Votes: 5/0/0/2
 Shared motion to create/update the following channels:
 #staff: re-purpose #candidates to list current admins and team-reps
 #project-roles: Joinable roles for all current projects.
-#billboard: See [motion #19](motions.md#19)
-#idea-box: See [motion #41](motions.md#41)
+#billboard: See [motion #19](motions.md#motion-19)
+#idea-box: See [motion #41](motions.md#motion-41)
