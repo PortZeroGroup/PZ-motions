@@ -207,6 +207,6 @@ Shared motion to create/update the following channels: <br />
 #billboard: See [motion #19](motions.md#motion-19) <br />
 #idea-box: See [motion #41](motions.md#motion-41) <br />
 
-######Motion-43
+###### Motion-43
 Votes: 5/0/0/2 <br />
-Proposal to host 2 server-wide brainstorm sessions (one for EU and one for NA time zones). One at 7PM UTC Saturday February 27th, and one at 2AM UTC Sunday February 28th. <br />
+Proposal to host 2 server-wide brainstorm sessions (one for EU and one for NA time zones). One at 7PM UTC Saturday February 27th, and one at 2AM UTC Sunday February 28th.
