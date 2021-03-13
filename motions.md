@@ -210,3 +210,16 @@ Shared motion to create/update the following channels: <br />
 ###### Motion-43
 Votes: 5/0/0/2 <br />
 Proposal to host 2 server-wide brainstorm sessions (one for EU and one for NA time zones). One at 7PM UTC Saturday February 27th, and one at 2AM UTC Sunday February 28th.
+
+###### Motion-44
+Votes: 3/0/2/2
+Proposal to begin recording the voice portion of admin meetings for future listening. <br />
+
+###### Motion-45
+Votes: 2/3/0/1
+Proposal to move project discussion back into a public channel. <br />
+
+###### Motion-46
+Votes:4/0/1/1.
+Weekly post to the community will begin on March Xth, it will cover a brief summary of the happenings in port zero for the week, This duty will be delegated at the end of the meeting. <br />
+
